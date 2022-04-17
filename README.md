@@ -1,4 +1,4 @@
-# inputstring-html
+# inputstring-java
 
 cloud vadana-assignment 2
 
